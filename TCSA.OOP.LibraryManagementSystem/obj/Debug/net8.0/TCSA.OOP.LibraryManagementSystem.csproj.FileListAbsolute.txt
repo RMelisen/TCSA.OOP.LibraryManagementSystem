@@ -1,0 +1,17 @@
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net8.0/TCSA.OOP.LibraryManagementSystem
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.deps.json
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.runtimeconfig.json
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.dll
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.pdb
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.AssemblyInfoInputs.cache
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.AssemblyInfo.cs
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.csproj.CoreCompileInputs.cache
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.dll
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/refint/TCSA.OOP.LibraryManagementSystem.dll
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.pdb
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.genruntimeconfig.cache
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/ref/TCSA.OOP.LibraryManagementSystem.dll
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net8.0/Spectre.Console.dll
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.csproj.AssemblyReference.cache
+/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net8.0/TCSA.OOP.LibraryManagementSystem.csproj.CopyComplete
