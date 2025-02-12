@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
+      "projectUniqueName": "/home/rmeli/Documents/Projects/Git Repos/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
       "projectName": "TCSA.OOP.LibraryManagementSystem",
-      "projectPath": "/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
+      "projectPath": "/home/rmeli/Documents/Projects/Git Repos/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
       "packagesPath": "/home/rmeli/.nuget/packages/",
-      "outputPath": "/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/obj/",
+      "outputPath": "/home/rmeli/Documents/Projects/Git Repos/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rmeli/.nuget/NuGet/NuGet.Config"

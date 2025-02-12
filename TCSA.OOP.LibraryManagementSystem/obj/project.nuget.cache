@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9MXRPmIfyrNEVH5etXWvzIxF+emRxrtJatooUvxI0sZuC5u1k9S5PK5Elso+dfJRRp3LXLnnw2QerOSLBuQ2g==",
+  "dgSpecHash": "4UR8mRnFnQkmAx6pmnkFUDneLEis6j5pUcNulOCzBjcqilV0Weq4kaF5BNdnjf00AP0RQWWguumfFn7Np0Hyxw==",
   "success": true,
-  "projectFilePath": "/home/rmeli/Documents/Projects/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
+  "projectFilePath": "/home/rmeli/Documents/Projects/Git Repos/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
   "expectedPackageFiles": [
     "/home/rmeli/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
   ],
